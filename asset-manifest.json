@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fishing-competition-app/static/js/main.c12eec56.js",
+    "index.html": "/fishing-competition-app/index.html",
+    "main.c12eec56.js.map": "/fishing-competition-app/static/js/main.c12eec56.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c12eec56.js"
+  ]
+}
